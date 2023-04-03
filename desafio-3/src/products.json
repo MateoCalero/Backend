@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Remera",
+    "description": "Remera de algodon",
+    "price": 3800,
+    "thumbnail": "url",
+    "code": 1,
+    "stock": 15,
+    "id": 1
+  },
+  {
+   " title": "Remera spum",
+    "description": "Remera de calidad spum",
+    "price": 2000,
+    "thumbnail": "url",
+    "code": 2,
+    "stock": 18,
+    "id": 2
+  },
+  {
+    "title": "Buzo",
+    "description": "Buzo de algodon con friza",
+    "price": 5000,
+    "thumbnail": "url",
+    "code": 3,
+    "stock": 7,
+    "id": 3
+  },
+  {
+    "title": "Campera de algodon",
+    "description": "Campera %100 algodon",
+    "price": 4700,
+    "thumbnail": "url",
+    "code": 4,
+    "stock": 5,
+    "id": 4
+  },
+  {
+    "title": "Medias animadas",
+    "description": "Medias con tus dibujos preferidos",
+    "price": 600,
+    "thumbnail": "url",
+    "code": 5,
+    "stock": 15,
+    "id": 5
+  },
+  {
+    "title": "Medias largas",
+    "description": "Medias 3/4 de algodon",
+    "price": 900,
+    "thumbnail": "url",
+    "code": 6,
+    "stock": 15,
+    "id": 6
+  },
+  {
+    "title": "Remeras lisas",
+    "description": "Remeras de algodon lisa sin estampa",
+    "price": 3000,
+    "thumbnail": "url",
+    "code": 7,
+    "stock": 20,
+    "id": 7
+  },
+  {
+    "title": "Zapatillas",
+    "description": "zapatillas deportivas",
+    "price": 10000,
+    "thumbnail": "url",
+    "code": 8,
+    "stock": 6,
+    "id": 8
+  },
+  {
+    "title": "Zapatos",
+    "description": "Zapatos para hombre",
+    "price": 18000,
+    "thumbnail": "url",
+    "code": 9,
+    "stock": 4,
+    "id": 9
+  },
+  {
+    "title": "Remera deportiva",
+    "description": "Remera deportiva unisex",
+    "price": 2000,
+    "thumbnail": "url",
+    "code": 10,
+    "stock": 11,
+    "id": 10
+  }
+]
